@@ -10,4 +10,6 @@ De momento he realizado 4 cursos:
 
 3. Introducción al Hacking Ético (Mastermind - S4vitar). CERTIFICADO.
 
-4. Curso NSE1 (Fortinet): Fundamentos de seguridad de red y contexto histórico de la ciberseguridad. CERTIFICADO.
+4. Curso NSE1 (Fortinet): Conciencia de la seguridad de la información. CERTIFICADO.
+
+5. Curso NSE2 (Fortinet): La evolución de la ciberseguridad. CERTIFICADO.
