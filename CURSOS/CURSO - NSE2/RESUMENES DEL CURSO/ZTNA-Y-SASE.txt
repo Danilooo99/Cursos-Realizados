@@ -1,0 +1,35 @@
+
+----------- ACCESO REMOTO SEGURO ----------- 
+
+- Son una combinación de métodos de seguridad y tecnologías que permiten que las entidades finales externas se conecten a las redes sin comprometer los activos digitales o exponer las redes a terceros no autorizados.  Los métodos para salvaguardar las conexiones remotas se han vuelto más seguros con el tiempo.
+
+- El acceso remoto dependiendo de cómo lo configures tiene unas características: Data Privacy, Data Integrity, Authentication, Authorization y Accounting.
+
+- Hay 3 métodos muy comunes para el acceso seguro: IPsec VPN, SSL VPN y ZTNA
+
+
+----------- VPN ----------- 
+
+- Los casos de uso son: Acceso remoto seguro y site-to-site. 
+
+- Sus principales componentes son: cliente, servidor y protocolos.
+
+
+----------- DIFERENCIA ENTRE ZERO TRUST NETWORK ACCESS (ZTNA) Y UNA VPN ----------- 
+
+- La diferencia principal (ya que son similares) es que ZTNA aplica el principio de ZERO TRUST
+
+
+----------- ZTNA ----------- 
+
+- Establece una sesión segura entre una entidad y una red. Solución de seguridad de TI que proporciona un acceso remoto seguro a las aplicaciones, los datos y los servicios de una organización según una serie de políticas de control de acceso claramente definidas. El ZTNA se diferencia de las redes privadas virtuales (VPN) en que otorga acceso solo a servicios o aplicaciones específicos, mientras que las VPN conceden acceso a una red completa. Cada vez son más los usuarios que acceden a los recursos desde casa u otras ubicaciones, por lo que las soluciones ZTNA pueden ayudar a salvar las carencias de otras tecnologías y métodos de acceso remoto seguro. Cuando se hace uso del ZTNA, el acceso a ciertas aplicaciones o recursos solo está garantizado si el usuario se ha autenticado en el servicio ZTNA. Tras esta autenticación, el ZTNA otorga al usuario acceso a la aplicación específica mediante un túnel seguro y cifrado que ofrece una capa adicional de seguridad protegiendo las aplicaciones y los servicios de direcciones IP que de otro modo serían visibles.
+De esta manera, los ZTNA actúan de forma muy similar a los perímetros definidos por software (SDP), ya que se basan en la misma idea de la «nube opaca» para evitar que los usuarios vean los servicios y las aplicaciones a los que no tienen permitido acceder. También ofrece protección contra los ataques laterales, puesto que un atacante, aunque obtuviera acceso, no podría analizar el entorno para encontrar otros servicios.
+
+
+
+----------- SASE ----------- 
+
+- SASE es una tecnología que combina las capacidades de la red como servicio y de la seguridad como servicio. Se entrega en la nube como un modelo de consumo como servicios para proporcionar un acceso seguro a las redes empresariales. Sase proporciona seguridad de red, permite intercambio de trafico, un firewall de próxima generacion, un gateway seguro de web, un ZTNA, sistema de DNS.
+
+- El borde o perímetro de servicio de acceso seguro (SASE, por sus siglas en inglés) es una arquitectura basada en la nube que ofrece servicios de red y seguridad destinados a proteger a los usuarios, las aplicaciones y los datos. Este término fue acuñado por Gartner en 2019 y se ha popularizado rápidamente hasta convertirse en uno de los principales conceptos de seguridad a los que se aspira en lo que llevamos de década. Dado que muchos usuarios y aplicaciones ya no están alojados ni operan en una red corporativa, las medidas de acceso y seguridad no pueden depender de dispositivos de hardware convencionales en el centro de datos corporativo.
+SASE promete ofrecer las funcionalidades de red y seguridad necesarias como servicios basados en la nube. Si se hace correctamente, un modelo SASE elimina los dispositivos físicos del perímetro y las soluciones tradicionales. En lugar de ofrecer el tráfico a un dispositivo para la seguridad, los usuarios se conectan al servicio SASE en la nube para acceder y utilizar los servicios web, las aplicaciones y los datos de forma segura con una aplicación coherente de las políticas de seguridad.
